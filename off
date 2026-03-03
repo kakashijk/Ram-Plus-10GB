@@ -1,0 +1,2 @@
+global ram_expand_size 0
+global ram_expand_size_list 8,10
