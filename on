@@ -1,3 +1,2 @@
-system previous_ram_expand_size 8192
 global ram_expand_size 8192
-global ram_expand_size_list 8,10
+global ram_expand_size_list 4,6,8,10
