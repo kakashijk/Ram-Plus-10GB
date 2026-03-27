@@ -1,3 +1,2 @@
 global ram_expand_size 0
-global ram_expand_size_list 2,4,6,8 10
-global zram 0
+global ram_expand_size_list 2,4,6,8,10
