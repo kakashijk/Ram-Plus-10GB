@@ -1,2 +1,2 @@
-global ram_expand_size 8192
+global ram_expand_size 10240
 global ram_expand_size_list 2,4,6,8,10
